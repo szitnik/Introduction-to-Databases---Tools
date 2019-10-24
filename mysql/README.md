@@ -14,7 +14,7 @@ This are general instructions to run specific services that are defined in each 
 ## Mac OS, Linux - instructions
 
 1. Install Docker Engine - Community from [the official Web page](https://docs.docker.com/install/) or using your preffered package manager.
-2. Copy the *docker-compose.yml* file from a specific folder into an empty directory on your system.
+2. Copy the [docker-compose.yml](docker-compose.yml) file from a specific folder into an empty directory on your system.
 3. Enter into the directory where you copied the *docker-compose.yml* file and run: `docker-compose up`
 4. To access services (you might need to wait a little for services to bootstrap):
 	* For *mysql* navigate to [http://localhost:8080](http://localhost:8080) and login as "*root*" with password "*Geslo.01*".
@@ -24,7 +24,7 @@ When you finish, run `docker-compose down` in your directory or press CTRL+C if 
 ## Windows users - instructions
 
 1. Install Docker Engine - Community from [the official Web page](https://docs.docker.com/install/) or using your preffered package manager.
-2. Copy the *docker-compose.yml* file from a specific folder into an empty directory on your system.
+2. Copy the [docker-compose.yml](docker-compose.yml) file from a specific folder into an empty directory on your system.
 3. Run application *Docker Quickstart Terminal* and wait for the console to appear.
 4. Run command `docker-machine ip` to get the IP of your virtual machine running Docker containers (by default, this should be something like 192.168.99.199).
 3. Enter into the directory where you copied the *docker-compose.yml* file and run: `docker-compose up`

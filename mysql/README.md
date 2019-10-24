@@ -1,6 +1,6 @@
 # Introduction to Databases - lab environment setup (mySQL)
 
-The repository is created for the lab session during the Introduction to Databases course at the University of Ljubljana, Faculty for computer and information science.
+The repository is created for lab sessions during the Introduction to Databases course at the University of Ljubljana, Faculty for computer and information science.
 
 ## Mac OS, Linux - instructions
 

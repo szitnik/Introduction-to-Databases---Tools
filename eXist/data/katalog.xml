@@ -1,0 +1,21 @@
+﻿<katalog>
+	<izdelek oddelek="WMN">
+		<stevilka>557</stevilka>
+		<ime jezik="sl">lanena srajca</ime>
+		<barve>rjava modra</barve>
+	</izdelek>
+	<izdelek oddelek="ACC">
+		<stevilka>563</stevilka>
+		<ime jezik="sl">kavbojski klobuk</ime>
+	</izdelek>
+	<izdelek oddelek="ACC">
+		<stevilka>443</stevilka>
+		<ime jezik="sl">senčnik</ime>
+	</izdelek>
+	<izdelek oddelek="MEN">
+		<stevilka>784</stevilka>
+		<ime jezik="sl">kratka majica</ime>
+		<barve>modra/bela modra/rdeča</barve>
+		<opis>Naša <i>najbolje prodajana</i> majica!</opis>
+	</izdelek>
+</katalog>

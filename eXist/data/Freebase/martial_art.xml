@@ -1,0 +1,379 @@
+<collection>
+<martial_art><name>Pehlwani</name><id>/m/07wy17</id><origin>India</origin><category>Grappling</category></martial_art>
+<martial_art><name>Kombatan</name><id>/m/07j66d</id></martial_art>
+<martial_art><name>Jeet Kune Do</name><id>/m/0fdb3</id><origin>China</origin><origin>United States of America</origin><well_known_practitioner>Jesse Glover</well_known_practitioner><well_known_practitioner>Larry Hartsell</well_known_practitioner><well_known_practitioner>Gary Dill</well_known_practitioner><well_known_practitioner>Lee Marvin</well_known_practitioner><well_known_practitioner>Bruce Lee</well_known_practitioner><category>Strike</category><category>Hybrid</category></martial_art>
+<martial_art><name>Yoseikan Budo</name><id>/m/06cdz8</id></martial_art>
+<martial_art><name>LINE</name><id>/m/01rc5r</id></martial_art>
+<martial_art><name>Model Mugging</name><id>/m/05d_hg</id></martial_art>
+<martial_art><name>Tegumi</name><id>/m/05hnth</id></martial_art>
+<martial_art><name>Bājíquán</name><id>/m/03p8h6</id></martial_art>
+<martial_art><name>Choi Kwang- do</name><id>/m/03ylxny</id></martial_art>
+<martial_art><name>Hanmoodo</name><id>/m/049vqt</id></martial_art>
+<martial_art><name>Nanbudo</name><id>/m/043gbw</id></martial_art>
+<martial_art><name>Piguaquan</name><id>/m/08hb1r</id></martial_art>
+<martial_art><name>Obnu Bilate</name><id>/m/04gj28c</id></martial_art>
+<martial_art><name>Lathi</name><id>/m/05hvph</id></martial_art>
+<martial_art><name>Jieishudan</name><id>/m/080hvc</id></martial_art>
+<martial_art><name>Eagle Claw</name><id>/m/01znpz</id></martial_art>
+<martial_art><name>But Marma Atti</name><id>/m/02y_56</id></martial_art>
+<martial_art><name>Daito-ryu</name><id>/m/0n18n</id><well_known_practitioner>Okuyama Yoshiharu</well_known_practitioner><well_known_practitioner>Morihei Ueshiba</well_known_practitioner><well_known_practitioner>Sokaku Takeda</well_known_practitioner><well_known_practitioner>Takuma Hisa</well_known_practitioner><category>Grappling</category><category>Weapon</category></martial_art>
+<martial_art><name>Cheena di</name><id>/m/09wk9d</id></martial_art>
+<martial_art><name>Hwa Rang Do</name><id>/m/05b65c</id><origin>Korea</origin><well_known_practitioner>Joo Sang Lee</well_known_practitioner><well_known_practitioner>Joo Bang Lee</well_known_practitioner><category>Grappling</category><category>Hybrid</category><category>Strike</category></martial_art>
+<martial_art><name>Ninjutsu</name><id>/m/0l_db</id><origin>Japan</origin><well_known_practitioner>Masaaki Hatsumi</well_known_practitioner><well_known_practitioner>Ronald Duncan</well_known_practitioner><well_known_practitioner>Frank Dux</well_known_practitioner></martial_art>
+<martial_art><name>Kalarippayattu</name><id>/m/01qcyb</id><origin>Kerala</origin><category>Grappling</category><category>Strike</category></martial_art>
+<martial_art><name>Shotokan</name><id>/m/01dnfp</id><well_known_practitioner>Vincent Cruz</well_known_practitioner><well_known_practitioner>Hidetaka Nishiyama</well_known_practitioner><well_known_practitioner>Lyoto Machida</well_known_practitioner><well_known_practitioner>Jean-Claude Van Damme</well_known_practitioner><well_known_practitioner>Vic Moore</well_known_practitioner><well_known_practitioner>Luca Valdesi</well_known_practitioner><well_known_practitioner>Teruyuki Okazaki</well_known_practitioner><well_known_practitioner>Nakayama Masatoshi</well_known_practitioner></martial_art>
+<martial_art><name>Black Tiger Kung Fu</name><id>/m/01yzpr</id></martial_art>
+<martial_art><name>Kapu Kuialua</name><id>/m/0d9wlq</id></martial_art>
+<martial_art><name>Silat Kalimah Panglima Tangkas</name><id>/m/0d9rzt</id></martial_art>
+<martial_art><name>Luohan</name><id>/m/0f6v6y</id></martial_art>
+<martial_art><name>Hoi Jeon Moo Sool</name><id>/m/04yqjt</id></martial_art>
+<martial_art><name>Kendo</name><id>/m/04c9r</id><origin>Japan</origin><well_known_practitioner>Hidetaka Nishiyama</well_known_practitioner><well_known_practitioner>Steven Seagal</well_known_practitioner><category>Weapon</category></martial_art>
+<martial_art><name>Bafaquan</name><id>/m/0fzjf1</id></martial_art>
+<martial_art><name>Sumo</name><id>/m/0dn7v</id><well_known_practitioner>Takuma Hisa</well_known_practitioner></martial_art>
+<martial_art><name>Liu Seong Kuntao</name><id>/m/09jz6n</id></martial_art>
+<martial_art><name>Mani stick fighting</name><id>/m/02w9grg</id></martial_art>
+<martial_art><name>Aikido</name><id>/m/0jjc</id><origin>Japan</origin><well_known_practitioner>Steven Seagal</well_known_practitioner><well_known_practitioner>Morihei Ueshiba</well_known_practitioner><well_known_practitioner>Toshishiro Obata</well_known_practitioner><well_known_practitioner>Moriteru Ueshiba</well_known_practitioner><well_known_practitioner>John Stevens</well_known_practitioner><well_known_practitioner>Christian Tissier</well_known_practitioner><well_known_practitioner>Koichi Tohei</well_known_practitioner><well_known_practitioner>Gōzō Shioda</well_known_practitioner><well_known_practitioner>Masamichi Noro</well_known_practitioner><well_known_practitioner>Terry Dobson</well_known_practitioner><well_known_practitioner>Shuji Maruyama</well_known_practitioner><well_known_practitioner>Kisshomaru Ueshiba</well_known_practitioner><well_known_practitioner>George Burr Leonard</well_known_practitioner><well_known_practitioner>Wagner Bull</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Shippalgi</name><id>/m/08g04g</id></martial_art>
+<martial_art><name>Tây Sơn Dynasty</name><id>/m/04x_y6</id></martial_art>
+<martial_art><name>Ssireum</name><id>/m/03vslh</id><origin>Korea</origin><category>Grappling</category></martial_art>
+<martial_art><name>Stav</name><id>/m/08m9zx</id></martial_art>
+<martial_art><name>Espada y daga</name><id>/m/04lv3d</id></martial_art>
+<martial_art><name>Chāquán</name><id>/m/02kv68</id></martial_art>
+<martial_art><name>Naginata</name><id>/m/0142gf</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Buno</name><id>/m/01vylg</id></martial_art>
+<martial_art><name>Kurash</name><id>/m/01w2pl</id><origin>Uzbekistan</origin><category>Grappling</category></martial_art>
+<martial_art><name>Hung Gar</name><id>/m/01v3yt</id></martial_art>
+<martial_art><name>Luta Livre</name><id>/m/01vyy_</id></martial_art>
+<martial_art><name>Shindo Yo Shin Ryu</name><id>/m/09rzfl</id></martial_art>
+<martial_art><name>Chun Kuk Do</name><id>/m/09ysv_</id><well_known_practitioner>Howard Jackson</well_known_practitioner><well_known_practitioner>Chuck Norris</well_known_practitioner></martial_art>
+<martial_art><name>Jailhouse rock</name><id>/m/05q5lt</id></martial_art>
+<martial_art><name>Shintaido</name><id>/m/0h5nr</id></martial_art>
+<martial_art><name>Yoseikan Karate</name><id>/m/027ympt</id></martial_art>
+<martial_art><name>Dravidian martial arts</name><id>/m/025vt7z</id></martial_art>
+<martial_art><name>Monkey Kung Fu</name><id>/m/02jf6w</id></martial_art>
+<martial_art><name>Juego del Palo</name><id>/m/06jtl7</id></martial_art>
+<martial_art><name>Ling Lom</name><id>/m/04pb59</id></martial_art>
+<martial_art><name>Persatuan Gerak Badan</name><id>/m/0ghsz8</id></martial_art>
+<martial_art><name>Ditangquan</name><id>/m/0fzk0j</id></martial_art>
+<martial_art><name>Shurikenjutsu</name><id>/m/024zyy</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Lancashire wrestling</name><id>/m/05zwsx</id></martial_art>
+<martial_art><name>Pradal Serey</name><id>/m/04943c</id></martial_art>
+<martial_art><name>Marine Corps Martial Arts Program</name><id>/m/05zhpx</id><origin>United States of America</origin></martial_art>
+<martial_art><name>Taiho-Jitsu</name><id>/m/07t1r3</id></martial_art>
+<martial_art><name>Canne de combat</name><id>/m/0286sc6</id></martial_art>
+<martial_art><name>Warrior wing chun</name><id>/m/03c_fz9</id></martial_art>
+<martial_art><name>Chung Suk Kuhapdo</name><id>/m/03cmjby</id><origin>Korea</origin><well_known_practitioner>Lim Hyun Soo</well_known_practitioner><category>Weapon</category></martial_art>
+<martial_art><name>Pitfight Team</name><id>/m/02x7zwn</id><origin>United States of America</origin><well_known_practitioner>Chuck Liddell</well_known_practitioner><category>Mixed martial arts</category></martial_art>
+<martial_art><name>Sayokan</name><id>/m/0ffmt5</id></martial_art>
+<martial_art><name>Pangamut</name><id>/m/0234vf</id></martial_art>
+<martial_art><name>Jukendo</name><id>/m/09mz62</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Nuba fighting</name><id>/m/07bjkl</id></martial_art>
+<martial_art><name>Vo Binh Dinh</name><id>/m/07jlvy</id><origin>Vietnam</origin><well_known_practitioner>Nguyen Hue</well_known_practitioner></martial_art>
+<martial_art><name>Bando</name><id>/m/0268t1b</id><well_known_practitioner>Maung Gyi</well_known_practitioner></martial_art>
+<martial_art><name>Mizongyi</name><id>/m/039m81</id></martial_art>
+<martial_art><name>Silat</name><id>/m/0153hr</id><origin>Malay Archipelago</origin><category>Weapon</category><category>Strike</category></martial_art>
+<martial_art><name>Jinenkan</name><id>/m/012mqk</id></martial_art>
+<martial_art><name>Sojutsu</name><id>/m/03k3kp</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Varma ati</name><id>/m/0gfbvz</id></martial_art>
+<martial_art><name>Kokikai</name><id>/m/04vmb8</id><well_known_practitioner>Shuji Maruyama</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Hankumdo</name><id>/m/0cy6cv</id></martial_art>
+<martial_art><name>Krav Maga</name><id>/m/048yh</id><origin>Israel</origin><well_known_practitioner>Kobi Lichtenstein</well_known_practitioner><well_known_practitioner>Haim Gidon</well_known_practitioner><well_known_practitioner>Darren Levine</well_known_practitioner><well_known_practitioner>Niall O'Higgins</well_known_practitioner><well_known_practitioner>Imi Lichtenfeld</well_known_practitioner><well_known_practitioner>Eyal Yanilov</well_known_practitioner><category>Grappling</category><category>Hybrid</category><category>Strike</category></martial_art>
+<martial_art><name>Mixed martial arts</name><id>/m/01h7lh</id><well_known_practitioner>Thales Leites</well_known_practitioner><well_known_practitioner>Rameau Thierry Sokoudjou</well_known_practitioner><well_known_practitioner>Justin Levens</well_known_practitioner><well_known_practitioner>Kimbo Slice</well_known_practitioner><well_known_practitioner>Aleksander Emelianenko</well_known_practitioner><well_known_practitioner>James Irvin</well_known_practitioner><well_known_practitioner>Tsuyoshi Kosaka</well_known_practitioner><well_known_practitioner>Gina Carano</well_known_practitioner><well_known_practitioner>Lee Murray</well_known_practitioner><well_known_practitioner>Lyoto Machida</well_known_practitioner><well_known_practitioner>Akihiro Gono</well_known_practitioner><well_known_practitioner>Norifumi Yamamoto</well_known_practitioner></martial_art>
+<martial_art><name>K-1</name><id>/m/02vmgp</id><well_known_practitioner>Norifumi Yamamoto</well_known_practitioner></martial_art>
+<martial_art><name>Sli beatha</name><id>/m/0grxvl</id></martial_art>
+<martial_art><name>Bata</name><id>/m/04x7y9</id><origin>Ireland</origin><category>Weapon</category></martial_art>
+<martial_art><name>Yamanni ryu</name><id>/m/0278q26</id></martial_art>
+<martial_art><name>Niyuddha-kride</name><id>/m/06pbln</id></martial_art>
+<martial_art><name>Inbuan Wrestling</name><id>/m/09mdvr</id></martial_art>
+<martial_art><name>Canarian wrestling</name><id>/m/0c9wmq</id></martial_art>
+<martial_art><name>Yabusame</name><id>/m/03bd08</id></martial_art>
+<martial_art><name>Chinese martial arts</name><id>/m/02g597</id><origin>China</origin><well_known_practitioner>Marvin Perry</well_known_practitioner><well_known_practitioner>Jason Lau</well_known_practitioner><well_known_practitioner>Yang Lu-ch'an</well_known_practitioner><well_known_practitioner>Jackie Chan</well_known_practitioner><well_known_practitioner>Ng Mui</well_known_practitioner><well_known_practitioner>William Kwai Sun Chow</well_known_practitioner><well_known_practitioner>Bruce Lee</well_known_practitioner><well_known_practitioner>Jet Li</well_known_practitioner></martial_art>
+<martial_art><name>Kbachkun Dambong-veng</name><id>/m/04f5cnx</id></martial_art>
+<martial_art><name>Defendu</name><id>/m/04y6ng</id></martial_art>
+<martial_art><name>Zen Do Kai</name><id>/m/0cjq44</id></martial_art>
+<martial_art><name>kuksool</name><id>/m/0cgwr4b</id></martial_art>
+<martial_art><name>Adriano Directo Emperado</name><id>/m/03c49ym</id><origin>Hawaii</origin><category>Kajukenbo</category></martial_art>
+<martial_art><name>Kenshin Ryu</name><id>/m/03cqx47</id></martial_art>
+<martial_art><name>Pukulan Bongkot</name><id>/m/02qsv23</id></martial_art>
+<martial_art><name>Kenpo</name><id>/m/01thl6</id><well_known_practitioner>James Mitose</well_known_practitioner><well_known_practitioner>William Kwai Sun Chow</well_known_practitioner><well_known_practitioner>John Chow-Hoon</well_known_practitioner><well_known_practitioner>Vic Moore</well_known_practitioner><well_known_practitioner>Gary Dill</well_known_practitioner><well_known_practitioner>Steve Sanders</well_known_practitioner></martial_art>
+<martial_art><name>Kyudo</name><id>/m/014q5m</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Adithada</name><id>/m/09mdt_</id></martial_art>
+<martial_art><name>Shaolin kung fu</name><id>/m/01jr9x</id><origin>China</origin><well_known_practitioner>Ng Mui</well_known_practitioner></martial_art>
+<martial_art><name>Northern Kalaripayattu</name><id>/m/0gsthv</id></martial_art>
+<martial_art><name>Kenpo kai</name><id>/m/0gt0yq</id></martial_art>
+<martial_art><name>Muay Boran</name><id>/m/01w0p8</id></martial_art>
+<martial_art><name>Battōjutsu</name><id>/m/02bjzr</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Pào Chuí</name><id>/m/06gn4x</id></martial_art>
+<martial_art><name>Seishinkai</name><id>/m/02r3y91</id></martial_art>
+<martial_art><name>Senegalese wrestling</name><id>/m/0417wfl</id></martial_art>
+<martial_art><name>Soo Bahk Do</name><id>/m/0bvxf1</id><well_known_practitioner>Hwang Kee</well_known_practitioner></martial_art>
+<martial_art><name>Banshay</name><id>/m/03rmq9</id></martial_art>
+<martial_art><name>Red Warrior</name><id>/m/03vy02</id></martial_art>
+<martial_art><name>Hup Kwon Do</name><id>/m/0f2l4r</id></martial_art>
+<martial_art><name>Soobak</name><id>/m/079j2d</id><origin>Korea</origin><category>Strike</category></martial_art>
+<martial_art><name>Tongbeiquan</name><id>/m/0cxdps</id></martial_art>
+<martial_art><name>Lutta corsa</name><id>/m/072y6n</id></martial_art>
+<martial_art><name>Spetsnaz GRU hand-to-hand combat style</name><id>/m/097ft8</id></martial_art>
+<martial_art><name>Nguni stick fighting</name><id>/m/089dj</id></martial_art>
+<martial_art><name>Japanese kickboxing</name><id>/m/03cgh8j</id></martial_art>
+<martial_art><name>Kinomichi</name><id>/m/02qxpgc</id><origin>Japan</origin><origin>France</origin><well_known_practitioner>Masamichi Noro</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Poekoelan Tjimindie Tulen</name><id>/m/02qsww5</id></martial_art>
+<martial_art><name>Seishindo</name><id>/m/07n6w9w</id><origin>United States of America</origin><well_known_practitioner>Frank Landers</well_known_practitioner><category>Martial arts</category></martial_art>
+<martial_art><name>Shaolin Nam Pai Chuan</name><id>/m/0ftdl8</id></martial_art>
+<martial_art><name>Gwon-gyokdo</name><id>/m/0f2tpp</id></martial_art>
+<martial_art><name>Fencing</name><id>/m/02y8z</id><origin>Italy</origin><category>Weapon</category></martial_art>
+<martial_art><name>Dog Kung Fu</name><id>/m/02kmsk</id></martial_art>
+<martial_art><name>Danny Rodarte</name><id>/m/075r1y5</id></martial_art>
+<martial_art><name>Seishindo Karate</name><id>/m/075qx5y</id><origin>United States of America</origin><well_known_practitioner>Frank Argelander</well_known_practitioner><well_known_practitioner>Frank Landers</well_known_practitioner><well_known_practitioner>Erik Estrada</well_known_practitioner><well_known_practitioner>Woody Strode</well_known_practitioner><well_known_practitioner>Dana MacKay</well_known_practitioner><category>Martial arts</category></martial_art>
+<martial_art><name>Iaido</name><id>/m/0ddhz</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Mongolian wrestling</name><id>/m/05lx02</id><origin>Mongolia</origin><category>Grappling</category></martial_art>
+<martial_art><name>Kilos Paru Paro</name><id>/m/02q46zn</id></martial_art>
+<martial_art><name>Keysi Fighting Method</name><id>/m/06z9lc</id></martial_art>
+<martial_art><name>Shorinji Ryu Karate</name><id>/m/0drfxk</id></martial_art>
+<martial_art><name>Taekyon</name><id>/m/02t73g</id><origin>Korea</origin><well_known_practitioner>Song Dok-Ki</well_known_practitioner><well_known_practitioner>Hwang Kee</well_known_practitioner><category>Strike</category><category>Hybrid</category></martial_art>
+<martial_art><name>Chow Gar</name><id>/m/0fz96f</id></martial_art>
+<martial_art><name>German school of swordsmanship</name><id>/m/03hxmf</id></martial_art>
+<martial_art><name>Five Animals</name><id>/m/07fb89</id></martial_art>
+<martial_art><name>Lucha libre</name><id>/m/03zd5x</id></martial_art>
+<martial_art><name>Seishindo Kenpo Association</name><id>/m/075qx9d</id><well_known_practitioner>John Hackleman</well_known_practitioner><well_known_practitioner>Woody Strode</well_known_practitioner><well_known_practitioner>Dana MacKay</well_known_practitioner><well_known_practitioner>Erik Estrada</well_known_practitioner><category>Martial arts</category></martial_art>
+<martial_art><name>Northern Shaolin</name><id>/m/071nmn</id><origin>Henan</origin><well_known_practitioner>Wong Jack Man</well_known_practitioner><well_known_practitioner>Tyler Ross</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Baguazhang</name><id>/m/01f235</id><origin>China</origin><well_known_practitioner>Dong Haichuan</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Jousting</name><id>/m/01gbp0</id></martial_art>
+<martial_art><name>Evala wrestling</name><id>/m/09dxg2</id></martial_art>
+<martial_art><name>Hankido</name><id>/m/0cxsn4</id></martial_art>
+<martial_art><name>Tai Chi Chuan</name><id>/m/07k4r</id><origin>China</origin><well_known_practitioner>Chris Maden</well_known_practitioner><well_known_practitioner>Tyler Ross</well_known_practitioner><well_known_practitioner>Chang Dsu Yao</well_known_practitioner><category>Strike</category><category>Internal</category><category>Grappling</category></martial_art>
+<martial_art><name>Capoeira Angola</name><id>/m/06sd28</id></martial_art>
+<martial_art><name>Viet Vo Dao</name><id>/m/075fpm</id></martial_art>
+<martial_art><name>Kuk Sool Won</name><id>/m/055rn5</id><origin>Korea</origin><well_known_practitioner>Suh In-Hyuk</well_known_practitioner><category>Grappling</category><category>Strike</category><category>Weapon</category></martial_art>
+<martial_art><name>Vovinam</name><id>/m/041d65</id><origin>Vietnam</origin><category>Strike</category><category>Grappling</category></martial_art>
+<martial_art><name>WingTsun</name><id>/m/05d8z1</id><origin>China</origin><well_known_practitioner>Leung Ting</well_known_practitioner><category>Strike</category><category>Trapping</category></martial_art>
+<martial_art><name>Huaquan</name><id>/m/0d8h3z</id></martial_art>
+<martial_art><name>Qigong</name><id>/m/0bmkv</id><origin>China</origin><category>Internal</category></martial_art>
+<martial_art><name>Köräş</name><id>/m/0dt5dl</id></martial_art>
+<martial_art><name>Kuttu Varisai</name><id>/m/0fvjkl</id></martial_art>
+<martial_art><name>Angampora</name><id>/m/09wmsc</id></martial_art>
+<martial_art><name>Catch wrestling</name><id>/m/09dm2y</id><origin>United States of America</origin><origin>Europe</origin><well_known_practitioner>Ken Shamrock</well_known_practitioner><well_known_practitioner>Karl Istaz</well_known_practitioner><well_known_practitioner>Frank Shamrock</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Shito ryu</name><id>/m/01vk__</id><well_known_practitioner>Kenwa Mabuni</well_known_practitioner><well_known_practitioner>Steven Seagal</well_known_practitioner></martial_art>
+<martial_art><name>Naginatajutsu</name><id>/m/01w2xd</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Bujinkan</name><id>/m/0m058</id></martial_art>
+<martial_art><name>Tenjin Shinyo-ryu</name><id>/m/07fxhc</id><well_known_practitioner>Morihei Ueshiba</well_known_practitioner></martial_art>
+<martial_art><name>International Kenpo Karate Association</name><id>/m/076r8wf</id><origin>United States of America</origin><category>American Kenpo</category></martial_art>
+<martial_art><name>Scottish Backhold</name><id>/m/0f8lv1</id></martial_art>
+<martial_art><name>Cimande</name><id>/m/0g9ldj</id></martial_art>
+<martial_art><name>Rough and Tumble</name><id>/m/025yrxf</id></martial_art>
+<martial_art><name>Butokukan karate</name><id>/m/0f3qk8</id></martial_art>
+<martial_art><name>Shidokan</name><id>/m/09h901</id><origin>Japan</origin><well_known_practitioner>Yoshiji soeno</well_known_practitioner><category>Grappling</category><category>Strike</category></martial_art>
+<martial_art><name>Enshin Karate</name><id>/m/0b01ps</id></martial_art>
+<martial_art><name>Silambam</name><id>/m/01w89d</id><origin>Kerala</origin><category>Weapon</category></martial_art>
+<martial_art><name>Brazilian Jiu-Jitsu</name><id>/m/01ddb4</id><origin>Brazil</origin><well_known_practitioner>Shinya Aoki</well_known_practitioner><well_known_practitioner>Antonio Silva</well_known_practitioner><well_known_practitioner>Thales Leites</well_known_practitioner><well_known_practitioner>Thiago Alves</well_known_practitioner><well_known_practitioner>C.B. Dollaway</well_known_practitioner><well_known_practitioner>Hélio Gracie</well_known_practitioner><well_known_practitioner>Shayna Baszler</well_known_practitioner><well_known_practitioner>Cassio Werneck</well_known_practitioner><well_known_practitioner>Rickson Gracie</well_known_practitioner><well_known_practitioner>Shawn Williams</well_known_practitioner><well_known_practitioner>Lyoto Machida</well_known_practitioner><well_known_practitioner>Zuluzinho</well_known_practitioner><well_known_practitioner>Antonio Rogerio Nogueira</well_known_practitioner><well_known_practitioner>Pedro Sauer</well_known_practitioner><well_known_practitioner>Nathan Diaz</well_known_practitioner><well_known_practitioner>Thiago Silva</well_known_practitioner><well_known_practitioner>Marcos Torregrosa</well_known_practitioner><well_known_practitioner>Robson Gracie</well_known_practitioner><well_known_practitioner>Carlos Gracie</well_known_practitioner><well_known_practitioner>Brad Imes</well_known_practitioner><well_known_practitioner>Carlos Gracie</well_known_practitioner><well_known_practitioner> Jr.</well_known_practitioner><well_known_practitioner>Alvin Aguilar</well_known_practitioner><well_known_practitioner>Robert Lovi</well_known_practitioner><well_known_practitioner>Cain Velasquez</well_known_practitioner><well_known_practitioner>Jarrod Butler</well_known_practitioner><well_known_practitioner>Marco Alvan</well_known_practitioner><well_known_practitioner>Fábio Santos</well_known_practitioner><well_known_practitioner>Kit Cope</well_known_practitioner><well_known_practitioner>Roxanne Modafferi</well_known_practitioner><well_known_practitioner>Royce Gracie</well_known_practitioner><well_known_practitioner>Demian Maia</well_known_practitioner><well_known_practitioner>Renzo Gracie</well_known_practitioner><well_known_practitioner>Michele Hicks</well_known_practitioner><well_known_practitioner>Robert Drysdale</well_known_practitioner><well_known_practitioner>Jason Chambers</well_known_practitioner><well_known_practitioner>Eddie Bravo</well_known_practitioner><well_known_practitioner>Fabio Gurgel</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Cuong Nhu</name><id>/m/0371y_</id></martial_art>
+<martial_art><name>Ketsugo jujutsu</name><id>/m/03cyz5b</id><origin>United States of America</origin></martial_art>
+<martial_art><name>Pencak Silat</name><id>/m/03bx9vm</id><origin>Indonesia</origin><category>Strike</category><category>Weapon</category></martial_art>
+<martial_art><name>Hoshin Roshi Ryu</name><id>/m/07krxr</id></martial_art>
+<martial_art><name>Cornish wrestling</name><id>/m/04yww0</id></martial_art>
+<martial_art><name>El Juego del Garrote</name><id>/m/02w9h0d</id></martial_art>
+<martial_art><name>Systema</name><id>/m/01vqp5</id><origin>Russia</origin><well_known_practitioner>Mikhail Ryabko</well_known_practitioner><category>Strike</category><category>Grappling</category></martial_art>
+<martial_art><name>Eskrima</name><id>/m/014zc9</id><well_known_practitioner>Frank Landers</well_known_practitioner></martial_art>
+<martial_art><name>Malla-yuddha</name><id>/m/0c14z8</id><origin>India</origin><well_known_practitioner>Bhima</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Wudangquan</name><id>/m/05wclv</id></martial_art>
+<martial_art><name>Bojutsu</name><id>/m/01wc1h</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Pit Fighting</name><id>/m/043s23g</id></martial_art>
+<martial_art><name>Southern Praying Mantis</name><id>/m/04wlqc</id></martial_art>
+<martial_art><name>Meihuaquan</name><id>/m/0d90yb</id><well_known_practitioner>Chang Dsu Yao</well_known_practitioner></martial_art>
+<martial_art><name>Lerdrit</name><id>/m/03rmrb</id></martial_art>
+<martial_art><name>Dim Mak</name><id>/m/0442yz</id></martial_art>
+<martial_art><name>Genwakai</name><id>/m/05z4sm</id></martial_art>
+<martial_art><name>Kenpo Kenpo</name><id>/m/07dl690</id><well_known_practitioner>Ed Parker</well_known_practitioner></martial_art>
+<martial_art><name>Emeiquan</name><id>/m/08hdkv</id></martial_art>
+<martial_art><name>San shou</name><id>/m/03bs3p</id><origin>China</origin><well_known_practitioner>Brent Hamby</well_known_practitioner><well_known_practitioner>Scott Sonnon</well_known_practitioner><well_known_practitioner>Tyler Ross</well_known_practitioner><well_known_practitioner>Marvin Perry</well_known_practitioner><well_known_practitioner>Cung Le</well_known_practitioner><category>Hybrid</category><category>Strike</category><category>Grappling</category></martial_art>
+<martial_art><name>Russian All-Round Fighting</name><id>/m/02618d8</id><origin>Russia</origin><category>Grappling</category><category>Strike</category><category>Hybrid</category></martial_art>
+<martial_art><name>Kapap</name><id>/m/0461bc</id></martial_art>
+<martial_art><name>American Kenpo</name><id>/m/02cxf5</id><well_known_practitioner>Danny Rodarte</well_known_practitioner><well_known_practitioner>John McSweeney</well_known_practitioner><well_known_practitioner>Frank Argelander</well_known_practitioner><well_known_practitioner>Frank Landers</well_known_practitioner><well_known_practitioner>Chris Maden</well_known_practitioner><well_known_practitioner>Ed Parker</well_known_practitioner><category>Martial arts</category></martial_art>
+<martial_art><name>Wrestling</name><id>/m/036vg6</id><well_known_practitioner>C.B. Dollaway</well_known_practitioner><well_known_practitioner>Jens Pulver</well_known_practitioner><well_known_practitioner>Yushin Okami</well_known_practitioner></martial_art>
+<martial_art><name>Combatives</name><id>/m/068hsn</id></martial_art>
+<martial_art><name>Shim Gum Do</name><id>/m/04jcywb</id></martial_art>
+<martial_art><name>Savate</name><id>/m/06ydz</id><origin>France</origin><well_known_practitioner>Pierre Vigny</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Sarit Sarak</name><id>/m/036cfz</id></martial_art>
+<martial_art><name>Tán Tuǐ</name><id>/m/04yfzp</id></martial_art>
+<martial_art><name>Sikaran</name><id>/m/03rmrp</id><origin>Philippines</origin><category>Strike</category></martial_art>
+<martial_art><name>Sul Ki Do</name><id>/m/043lt53</id></martial_art>
+<martial_art><name>Dirk dance</name><id>/m/06_343</id></martial_art>
+<martial_art><name>Gouren</name><id>/m/05jj32</id></martial_art>
+<martial_art><name>Bartitsu</name><id>/m/06jm_r</id><origin>England</origin><well_known_practitioner>Edward William Barton-Wright</well_known_practitioner><category>Grappling</category><category>Strike</category><category>Hybrid</category></martial_art>
+<martial_art><name>Bataireacht</name><id>/m/067y1r</id></martial_art>
+<martial_art><name>Jing Quan Do</name><id>/m/0ft9pp</id></martial_art>
+<martial_art><name>Quan Khi Dao</name><id>/m/06qbr2</id></martial_art>
+<martial_art><name>Hung Fut</name><id>/m/0f071k</id></martial_art>
+<martial_art><name>Do Pi Kung Fu</name><id>/m/0ftcws</id></martial_art>
+<martial_art><name>Dumog</name><id>/m/01vykr</id></martial_art>
+<martial_art><name>Cinco Teros</name><id>/m/06g_lc</id></martial_art>
+<martial_art><name>Karate</name><id>/m/048dz</id><origin>Ryukyu Kingdom</origin><well_known_practitioner>William Kwai Sun Chow</well_known_practitioner><well_known_practitioner>Dolph Lundgren</well_known_practitioner><well_known_practitioner>Nakayama Masatoshi</well_known_practitioner><well_known_practitioner>Manuela Arcuri</well_known_practitioner><well_known_practitioner>Kyung Sun Shin</well_known_practitioner><well_known_practitioner>Roger Hart</well_known_practitioner><well_known_practitioner>Antonio Silva</well_known_practitioner><well_known_practitioner>Demian Maia</well_known_practitioner><well_known_practitioner>Sonny Chiba</well_known_practitioner><well_known_practitioner>Jean-Claude Van Damme</well_known_practitioner><well_known_practitioner>Fumio Demura</well_known_practitioner><well_known_practitioner>Steven Seagal</well_known_practitioner><well_known_practitioner>Hidetaka Nishiyama</well_known_practitioner><well_known_practitioner>Vic Moore</well_known_practitioner><well_known_practitioner>Eizo Shimabukuro</well_known_practitioner><well_known_practitioner>Marvin Perry</well_known_practitioner><well_known_practitioner>Howard Jackson</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Bakti Negara</name><id>/m/043ryk9</id></martial_art>
+<martial_art><name>Tang Soo Do</name><id>/m/05wb76</id><well_known_practitioner>Howard Jackson</well_known_practitioner><well_known_practitioner>Darnell Garcia</well_known_practitioner><well_known_practitioner>Hwang Kee</well_known_practitioner></martial_art>
+<martial_art><name>Taekwondo</name><id>/m/07gyv</id><origin>Korea</origin><well_known_practitioner>Jhoon Goo Rhee</well_known_practitioner><well_known_practitioner>Jean-Claude Van Damme</well_known_practitioner><well_known_practitioner>Frank Landers</well_known_practitioner><well_known_practitioner>Roxanne Modafferi</well_known_practitioner><well_known_practitioner>Yun Dukan</well_known_practitioner><well_known_practitioner>Dae Sung Moon</well_known_practitioner><well_known_practitioner>Michael Steger</well_known_practitioner><well_known_practitioner>Chang Kyun Yu</well_known_practitioner><well_known_practitioner>Bernard Warshauer</well_known_practitioner><well_known_practitioner>Chris Maden</well_known_practitioner><well_known_practitioner>Frank Argelander</well_known_practitioner><well_known_practitioner>Ken Craig</well_known_practitioner><well_known_practitioner>Kyung Sun Shin</well_known_practitioner><well_known_practitioner>Donnie Williams</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Krabi Krabong</name><id>/m/01w0nw</id></martial_art>
+<martial_art><name>Glima</name><id>/m/01vqnr</id><origin>Iceland</origin><category>Grappling</category></martial_art>
+<martial_art><name>Genbukan</name><id>/m/012phs</id></martial_art>
+<martial_art><name>Bando kickboxing</name><id>/m/027vmp6</id><origin>Burma</origin><well_known_practitioner>Maung Gyi</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Dragon Kung Fu</name><id>/m/02qfn0</id><origin>China</origin><well_known_practitioner>Ng Mui</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Yiquan</name><id>/m/05hm1d</id></martial_art>
+<martial_art><name>Binh Dinh Province</name><id>/m/03r33w</id></martial_art>
+<martial_art><name>Lethwei</name><id>/m/04qd7t</id><origin>Burma</origin><category>Strike</category></martial_art>
+<martial_art><name>Dambe</name><id>/m/02ps4zw</id></martial_art>
+<martial_art><name>Ryukyu Kobudo</name><id>/m/02x8v14</id></martial_art>
+<martial_art><name>Muay Thai</name><id>/m/04xz3</id><origin>Thailand</origin><well_known_practitioner>Kit Cope</well_known_practitioner><well_known_practitioner>Jean-Claude Van Damme</well_known_practitioner><well_known_practitioner>C.B. Dollaway</well_known_practitioner><well_known_practitioner>Antonio Silva</well_known_practitioner><well_known_practitioner>Gilbert Yvel</well_known_practitioner><well_known_practitioner>Marco Ruas</well_known_practitioner><well_known_practitioner>Kultar Gill</well_known_practitioner><well_known_practitioner>Gina Carano</well_known_practitioner><well_known_practitioner>Shayna Baszler</well_known_practitioner><well_known_practitioner>Ramon Dekkers</well_known_practitioner><well_known_practitioner>Master Toddy</well_known_practitioner><well_known_practitioner>Roxanne Modafferi</well_known_practitioner><well_known_practitioner>Thiago Alves</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Tien Shan Pai</name><id>/m/08fbk_</id></martial_art>
+<martial_art><name>Okinawan kobudo</name><id>/m/085r4f</id><origin>Okinawa Prefecture</origin><category>Weapon</category></martial_art>
+<martial_art><name>Hayashi-ha karate</name><id>/m/0gpnz_</id></martial_art>
+<martial_art><name>Kuntao</name><id>/m/01qf7w</id></martial_art>
+<martial_art><name>German Ju-Jutsu</name><id>/m/0fdj1b</id></martial_art>
+<martial_art><name>Rumi Maki Martial Arts</name><id>/m/0dm6r_h</id><origin>N.A.R.M.A.</origin><well_known_practitioner>Rumi Runa</well_known_practitioner><category>Inca Fighting System</category></martial_art>
+<martial_art><name>Kokondo</name><id>/m/0c9h73</id></martial_art>
+<martial_art><name>Xingyiquan</name><id>/m/02vpwc</id><origin>China</origin><well_known_practitioner>Wong Jack Man</well_known_practitioner><well_known_practitioner>Yue Fei</well_known_practitioner><category>Hybrid</category></martial_art>
+<martial_art><name>Greco-Roman wrestling</name><id>/m/03fyrh</id><origin>France</origin><well_known_practitioner>Randy Couture</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Okichitaw</name><id>/m/03mgfsf</id></martial_art>
+<martial_art><name>Dakentaijutsu</name><id>/m/04yxbd</id></martial_art>
+<martial_art><name>Tinku</name><id>/m/04hnjm</id></martial_art>
+<martial_art><name>Jujutsu</name><id>/m/01x6fm</id><well_known_practitioner>John Chow-Hoon</well_known_practitioner><well_known_practitioner>James Mitose</well_known_practitioner><well_known_practitioner>Seishiro Okazaki</well_known_practitioner><well_known_practitioner>Jigoro Kano</well_known_practitioner></martial_art>
+<martial_art><name>Shinkendo</name><id>/m/07v1q0</id></martial_art>
+<martial_art><name>Goshin Jujitsu</name><id>/m/0gdd6s</id></martial_art>
+<martial_art><name>Khmer Traditional Wrestling</name><id>/m/0gg_8s</id></martial_art>
+<martial_art><name>Francombat</name><id>/m/03nt1z4</id></martial_art>
+<martial_art><name>Zhuan Shu Kuan</name><id>/m/091k36</id></martial_art>
+<martial_art><name>Shukokai</name><id>/m/07tlrr</id></martial_art>
+<martial_art><name>Matayoshi Kobudo</name><id>/m/02x8tbt</id></martial_art>
+<martial_art><name>Vacón</name><id>/m/08hhgm</id></martial_art>
+<martial_art><name>Ryabko's Systema</name><id>/m/057x5x</id></martial_art>
+<martial_art><name>Bojuka</name><id>/m/057hlfj</id></martial_art>
+<martial_art><name>Taido</name><id>/m/04j0q9</id><origin>Japan</origin><category>Strike</category></martial_art>
+<martial_art><name>Shohei-ryu</name><id>/m/099y83</id></martial_art>
+<martial_art><name>United Studios of Self Defense</name><id>/m/08t58r</id><category>Self-defense</category></martial_art>
+<martial_art><name>Wen-Do</name><id>/m/098ncp</id></martial_art>
+<martial_art><name>Thang-Ta</name><id>/m/02qtspz</id></martial_art>
+<martial_art><name>Naban</name><id>/m/03rmqn</id></martial_art>
+<martial_art><name>Calinda</name><id>/m/0cvdvr</id></martial_art>
+<martial_art><name>Kumdo</name><id>/m/03wdvt</id></martial_art>
+<martial_art><name>Yau Kung Moon</name><id>/m/0gyc99</id></martial_art>
+<martial_art><name>Fighting Hopak</name><id>/m/026w63s</id></martial_art>
+<martial_art><name>Pankration</name><id>/m/061px</id><origin>Ancient Greece</origin><category>Strike</category><category>Grappling</category></martial_art>
+<martial_art><name>Shoot wrestling</name><id>/m/05lqxw</id></martial_art>
+<martial_art><name>Nippon Kempo</name><id>/m/028288b</id></martial_art>
+<martial_art><name>Sindo</name><id>/m/0266q6f</id></martial_art>
+<martial_art><name>Perguruan Pencak Silat Padjadjaran Nasional</name><id>/m/02vms3m</id></martial_art>
+<martial_art><name>Kyokushin</name><id>/m/01vky_</id></martial_art>
+<martial_art><name>Real Aikido</name><id>/m/0c35n5</id><well_known_practitioner>Ljubomir Vračarević</well_known_practitioner></martial_art>
+<martial_art><name>Toa So Dou</name><id>/m/02wbpz9</id></martial_art>
+<martial_art><name>Bok Fu Do</name><id>/m/04g0tj2</id></martial_art>
+<martial_art><name>Freestyle fighting</name><id>/m/04xsp0</id><well_known_practitioner>Jon Koppenhaver</well_known_practitioner></martial_art>
+<martial_art><name>Svebor</name><id>/m/0ggns0</id></martial_art>
+<martial_art><name>Five Ancestors</name><id>/m/03gc6s</id></martial_art>
+<martial_art><name>Silat</name><id>/m/03hfzm1</id></martial_art>
+<martial_art><name>Jodo</name><id>/m/0cgtq2</id><origin>Japan</origin><category>Weapon</category></martial_art>
+<martial_art><name>Fu Jow Pai</name><id>/m/02r7q1f</id></martial_art>
+<martial_art><name>Shaolin Fist</name><id>/m/0853mb</id></martial_art>
+<martial_art><name>Varma Kalai</name><id>/m/05sbt1</id></martial_art>
+<martial_art><name>Mian Quan</name><id>/m/02qz_xf</id></martial_art>
+<martial_art><name>Sambo</name><id>/m/04dly4</id><origin>Soviet Union</origin><well_known_practitioner>Vladimir Putin</well_known_practitioner><well_known_practitioner>Fedor Emelianenko</well_known_practitioner><well_known_practitioner>Scott Sonnon</well_known_practitioner><well_known_practitioner>Andrei Arlovski</well_known_practitioner><well_known_practitioner>Oleg Taktarov</well_known_practitioner><category>Hybrid</category></martial_art>
+<martial_art><name>Takeda Ryu Nakamura Ha</name><id>/m/04dy_g0</id></martial_art>
+<martial_art><name>Destreza</name><id>/m/07y8zn</id></martial_art>
+<martial_art><name>AKBAN</name><id>/m/06grx0</id></martial_art>
+<martial_art><name>Zipota</name><id>/m/01x7cw</id></martial_art>
+<martial_art><name>Kenjutsu</name><id>/m/0dj8k</id><origin>Japan</origin><well_known_practitioner>Kamiizumi Nobutsuna</well_known_practitioner><category>Weapon</category></martial_art>
+<martial_art><name>Taijutsu</name><id>/m/0l_2q</id></martial_art>
+<martial_art><name>Modern Arnis</name><id>/m/06k44z</id><origin>Philippines</origin><well_known_practitioner>Remy Presas</well_known_practitioner><category>Strike</category><category>Grappling</category><category>Weapon</category></martial_art>
+<martial_art><name>Yagyū Shinkage-ryū</name><id>/m/063d4w</id><well_known_practitioner>Morihei Ueshiba</well_known_practitioner></martial_art>
+<martial_art><name>Yağlı güreş</name><id>/m/03x5jl</id><origin>Turkey</origin><category>Grappling</category></martial_art>
+<martial_art><name>Kajukenbo</name><id>/m/01tm7f</id><origin>Oahu</origin><well_known_practitioner>Frank Landers</well_known_practitioner><well_known_practitioner>Clarence chang</well_known_practitioner><well_known_practitioner>Adriano Directo Emperado</well_known_practitioner><well_known_practitioner>John Hackleman</well_known_practitioner><well_known_practitioner>Franz ordonez</well_known_practitioner><well_known_practitioner>Joe holck</well_known_practitioner><category>Grappling</category><category>Strike</category></martial_art>
+<martial_art><name>Tat Kun Tao</name><id>/m/01w81k</id></martial_art>
+<martial_art><name>Iaijutsu</name><id>/m/03bwyww</id><origin>Japan</origin><well_known_practitioner>Hayashizaki Jinsuke Shigenobu</well_known_practitioner><category>Weapon</category></martial_art>
+<martial_art><name>Jow-Ga Kung Fu</name><id>/m/0dgpgp</id></martial_art>
+<martial_art><name>Shuri-ryu</name><id>/m/06sq5v</id><well_known_practitioner>Vic Moore</well_known_practitioner></martial_art>
+<martial_art><name>Vale tudo</name><id>/m/02h3f3</id><well_known_practitioner>Zuluzinho</well_known_practitioner></martial_art>
+<martial_art><name>Changquan</name><id>/m/04xryl</id></martial_art>
+<martial_art><name>Judo</name><id>/m/03_8r</id><origin>Japan</origin><well_known_practitioner>Jigoro Kano</well_known_practitioner><well_known_practitioner>Demian Maia</well_known_practitioner><well_known_practitioner>Hélio Gracie</well_known_practitioner><well_known_practitioner>Carlos Gracie</well_known_practitioner><well_known_practitioner>Lee So-Yeon</well_known_practitioner><well_known_practitioner>Kiyojute Ryu Kempo</well_known_practitioner><well_known_practitioner>Yushin Okami</well_known_practitioner><well_known_practitioner>Chang Kyun Yu</well_known_practitioner><well_known_practitioner>Doug Williams</well_known_practitioner><well_known_practitioner>Fedor Emelianenko</well_known_practitioner><well_known_practitioner>Roxanne Modafferi</well_known_practitioner><well_known_practitioner>Christopher Adams</well_known_practitioner><well_known_practitioner>Rameau Thierry Sokoudjou</well_known_practitioner><well_known_practitioner>Tsuyoshi Kosaka</well_known_practitioner><well_known_practitioner>Vladimir Putin</well_known_practitioner><well_known_practitioner>Gōzō Shioda</well_known_practitioner><well_known_practitioner>Yun Dukan</well_known_practitioner><well_known_practitioner>Morihei Ueshiba</well_known_practitioner><well_known_practitioner>Keiko Fukuda</well_known_practitioner><well_known_practitioner>Kyung Sun Shin</well_known_practitioner><well_known_practitioner>Koichi Tohei</well_known_practitioner><well_known_practitioner>Steven Seagal</well_known_practitioner><category>Grappling</category></martial_art>
+<martial_art><name>Japanese martial arts</name><id>/m/025tjmx</id></martial_art>
+<martial_art><name>Paul de Thouars</name><id>/m/0dxtsj</id></martial_art>
+<martial_art><name>Seido</name><id>/m/01dq1r</id></martial_art>
+<martial_art><name>Bothati</name><id>/m/026j85g</id></martial_art>
+<martial_art><name>Capoeira</name><id>/m/01sv6</id><origin>Brazil</origin><origin>West Africa</origin><well_known_practitioner>Mestre Bimba</well_known_practitioner><well_known_practitioner>Mestre Pastinha</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Zui Quan</name><id>/m/0606mz</id><origin>China</origin><well_known_practitioner>Li Bai</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Bokator</name><id>/m/0fqkc_</id><origin>Khmer Empire</origin><well_known_practitioner>Sean Kim San</well_known_practitioner><well_known_practitioner>Jayavarman VII</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Jogo do Pau</name><id>/m/01x_vd</id><origin>Portugal</origin><category>Weapon</category></martial_art>
+<martial_art><name>Bali silat</name><id>/m/03cyr6p</id></martial_art>
+<martial_art><name>Wushu</name><id>/m/099t47</id><origin>China</origin><well_known_practitioner>Uriah Shelton</well_known_practitioner><well_known_practitioner>Gary Dill</well_known_practitioner><well_known_practitioner>Jon Foo</well_known_practitioner><well_known_practitioner>Jet Li</well_known_practitioner><well_known_practitioner>Ray Park</well_known_practitioner><well_known_practitioner>Wu Jing</well_known_practitioner></martial_art>
+<martial_art><name>Ashihara karate</name><id>/m/0cv4cv</id></martial_art>
+<martial_art><name>Kali Sikaran</name><id>/m/04qtjf</id></martial_art>
+<martial_art><name>Koryu Uchinadi</name><id>/m/04cvgnh</id></martial_art>
+<martial_art><name>Defendo</name><id>/m/0627dj</id></martial_art>
+<martial_art><name>Hapkido</name><id>/m/0hbj9</id><origin>Korea</origin><well_known_practitioner>Roger Hart</well_known_practitioner><well_known_practitioner>Kyung Sun Shin</well_known_practitioner><well_known_practitioner>Ken Craig</well_known_practitioner><well_known_practitioner>Lim Hyun Soo</well_known_practitioner><well_known_practitioner>Barry Rodemaker</well_known_practitioner><well_known_practitioner>Chris Maden</well_known_practitioner><category>Strike</category><category>Grappling</category><category>Chin Na</category></martial_art>
+<martial_art><name>Ki-Aikido</name><id>/m/04vlpd</id><origin>Aikikai Hombu Dojo</origin><well_known_practitioner>Koichi Tohei</well_known_practitioner><well_known_practitioner>Shuji Maruyama</well_known_practitioner></martial_art>
+<martial_art><name>Danzan Ryu</name><id>/m/04y871</id><well_known_practitioner>John Chow-Hoon</well_known_practitioner><well_known_practitioner>Seishiro Okazaki</well_known_practitioner></martial_art>
+<martial_art><name>Han Mu Do</name><id>/m/0f2l18</id></martial_art>
+<martial_art><name>Bukti Negara</name><id>/m/0f1q5q</id></martial_art>
+<martial_art><name>Contemporary fighting arts</name><id>/m/026dt44</id></martial_art>
+<martial_art><name>Kickboxing</name><id>/m/048fg</id><well_known_practitioner>Zuluzinho</well_known_practitioner><well_known_practitioner>Jean-Claude Van Damme</well_known_practitioner><well_known_practitioner>Gilbert Yvel</well_known_practitioner><well_known_practitioner>Bruce Buffer</well_known_practitioner><well_known_practitioner>Yushin Okami</well_known_practitioner><well_known_practitioner>Ramon Dekkers</well_known_practitioner><well_known_practitioner>Brad Imes</well_known_practitioner><well_known_practitioner>Cain Velasquez</well_known_practitioner><well_known_practitioner>Howard Jackson</well_known_practitioner><well_known_practitioner>Norifumi Yamamoto</well_known_practitioner><category>Kickboxing</category></martial_art>
+<martial_art><name>Haidong Gumdo</name><id>/m/03n_pf</id><origin>Korea</origin></martial_art>
+<martial_art><name>BKF Kenpo</name><id>/m/07d87yk</id><origin>United States of America</origin><well_known_practitioner>Steve Sanders</well_known_practitioner><well_known_practitioner>Donnie Williams</well_known_practitioner><category>Kenpo</category></martial_art>
+<martial_art><name>Nan Quan</name><id>/m/078ppy</id></martial_art>
+<martial_art><name>Wado Ryu</name><id>/m/01vhvg</id></martial_art>
+<martial_art><name>Northern Praying Mantis</name><id>/m/0243gp</id><origin>China</origin><well_known_practitioner>Wang Lang</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Kabaddi</name><id>/m/04b0s</id></martial_art>
+<martial_art><name>Yagyu Shingan-ryu</name><id>/m/07gdwt</id><well_known_practitioner>Morihei Ueshiba</well_known_practitioner></martial_art>
+<martial_art><name>Malyutham</name><id>/m/026szkv</id></martial_art>
+<martial_art><name>Tomoi</name><id>/m/07k_2h</id></martial_art>
+<martial_art><name>Bâton français</name><id>/m/01dmxm</id><origin>France</origin><category>Strike</category></martial_art>
+<martial_art><name>GKR Karate</name><id>/m/08jtn7</id></martial_art>
+<martial_art><name>Vajra Mushti</name><id>/m/05hf33</id></martial_art>
+<martial_art><name>Choy Lee Fut</name><id>/m/02pbz2</id></martial_art>
+<martial_art><name>Leopard Kung Fu</name><id>/m/04vcch</id></martial_art>
+<martial_art><name>Rumi maki</name><id>/m/02qyq6t</id></martial_art>
+<martial_art><name>Seon-Kwan-Moo</name><id>/m/02r6zrq</id></martial_art>
+<martial_art><name>Nakamura Ryu</name><id>/m/0c7j3m</id></martial_art>
+<martial_art><name>Khridoli</name><id>/m/027fdn9</id></martial_art>
+<martial_art><name>Pananjakman</name><id>/m/01w5bl</id></martial_art>
+<martial_art><name>Boxing</name><id>/m/01cgz</id><origin>England</origin><well_known_practitioner>Mike Tyson</well_known_practitioner><well_known_practitioner>Gina Carano</well_known_practitioner><well_known_practitioner>Niall O'Higgins</well_known_practitioner><well_known_practitioner>George Foreman</well_known_practitioner><well_known_practitioner>Muhammad Ali</well_known_practitioner><well_known_practitioner>Antonio Rogerio Nogueira</well_known_practitioner><category>Strike</category></martial_art>
+<martial_art><name>Kunmudo</name><id>/m/02q63gx</id></martial_art>
+<martial_art><name>Yaw yan</name><id>/m/02q7bzg</id><well_known_practitioner>Alvin Aguilar</well_known_practitioner></martial_art>
+<martial_art><name>Kateda</name><id>/m/0cwn86</id></martial_art>
+<martial_art><name>Liuhe Bafa</name><id>/m/03n_8s</id></martial_art>
+<martial_art><name>Shoot boxing</name><id>/m/04xpvv</id><well_known_practitioner>Jens Pulver</well_known_practitioner></martial_art>
+<martial_art><name>Fanchento</name><id>/m/0850x1</id></martial_art>
+<martial_art><name>Boabom</name><id>/m/073n_2</id></martial_art>
+<martial_art><name>American kickboxing</name><id>/m/03cgh96</id></martial_art>
+<martial_art><name>Varzesh-e Pahlavani</name><id>/m/0286mg3</id></martial_art>
+<martial_art><name>Hapkido</name><id>/m/02qvd50</id><well_known_practitioner>Chang Kyun Yu</well_known_practitioner></martial_art>
+<martial_art><name>Bak Mei</name><id>/m/06h1wg</id></martial_art>
+<martial_art><name>WonHwaDo</name><id>/m/06mpsx</id></martial_art>
+<martial_art><name>Shorinji Kempo</name><id>/m/01txv3</id><origin>Tadotsu</origin><well_known_practitioner>Mona Lisa Moon</well_known_practitioner><well_known_practitioner>Roxanne Modafferi</well_known_practitioner></martial_art>
+<martial_art><name>Mukna</name><id>/m/026c_j2</id></martial_art>
+<martial_art><name>Wing Chun</name><id>/m/084rw</id><origin>China</origin><well_known_practitioner>Yip Man</well_known_practitioner><well_known_practitioner>Leung Ting</well_known_practitioner><well_known_practitioner>Ng Mui</well_known_practitioner><well_known_practitioner>Bruce Lee</well_known_practitioner><category>Trapping</category><category>Chin Na</category><category>Strike</category></martial_art>
+<martial_art><name>Lao boxing</name><id>/m/04yblcw</id></martial_art>
+<martial_art><name>Silat Cekak</name><id>/m/09czf_</id></martial_art>
+<martial_art><name>Bare-knuckle boxing</name><id>/m/01z_64</id></martial_art>
+<martial_art><name>Lima lama</name><id>/m/0gvmzg</id></martial_art>
+<martial_art><name>Nindokai</name><id>/m/06bzy_</id></martial_art>
+<martial_art><name>Schwingen</name><id>/m/01vqnb</id></martial_art>
+<martial_art><name>Snake Kung Fu</name><id>/m/025yw6</id></martial_art>
+<martial_art><name>Shuai jiao</name><id>/m/09b7ls</id><origin>China</origin><category>Grappling</category></martial_art>
+<martial_art><name>Toyama-ryu</name><id>/m/092rny</id></martial_art>
+<martial_art><name>Juttejutsu</name><id>/m/04w_9d</id><origin>Japan</origin><category>Strike</category></martial_art>
+<martial_art><name>Shooto</name><id>/m/051lcb</id><well_known_practitioner>Norifumi Yamamoto</well_known_practitioner></martial_art>
+<martial_art><name>Isidro Javier</name><id>/m/075r1x_</id><origin>Philippines</origin><well_known_practitioner>Frank Landers</well_known_practitioner><category>Filipino martial arts</category></martial_art>
+<martial_art><name>Testa</name><id>/m/0bvqk8</id></martial_art>
+<martial_art><name>Fujian White Crane</name><id>/m/073p_r</id></martial_art>
+<martial_art><name>Hakko Ryu</name><id>/m/02n493</id></martial_art>
+<martial_art><name>Wu-Wei Gung-Fu</name><id>/m/03clkjq</id></martial_art>
+<martial_art><name>Ed Parker</name><id>/m/02wlv9</id><origin>Hawaii</origin><category>Martial arts</category></martial_art>
+<martial_art><name>SeishinDo Kenpo</name><id>/m/03cjpb3</id><origin>United States of America</origin><well_known_practitioner>Roger Hart</well_known_practitioner><well_known_practitioner>Cathy Landers</well_known_practitioner><well_known_practitioner>Dana MacKay</well_known_practitioner><well_known_practitioner>Lee Marvin</well_known_practitioner><well_known_practitioner>Woody Strode</well_known_practitioner><well_known_practitioner>Frank Landers</well_known_practitioner><well_known_practitioner>John Hackleman</well_known_practitioner><well_known_practitioner>Erik Estrada</well_known_practitioner><category>Martial arts</category></martial_art>
+<martial_art><name>Grappling</name><id>/m/039cp</id></martial_art>
+<martial_art><name>Gayong Malaysia</name><id>/m/03cmt0p</id></martial_art>
+<martial_art><name>Kyuki Do</name><id>/m/06z0xh</id></martial_art>
+<martial_art><name>Professional wrestling in Japan</name><id>/m/02p2h0</id></martial_art>
+<martial_art><name>Gatka</name><id>/m/02rl89</id><origin>Punjab</origin><category>Weapon</category></martial_art>
+<martial_art><name>Fānziquán</name><id>/m/05547k</id></martial_art>
+<martial_art><name>Egyptian stick fencing</name><id>/m/04v3hr</id><origin>Egypt</origin><category>Weapon</category></martial_art>
+<martial_art><name>Hakko Denshin Ryu</name><id>/m/0bc1ts</id></martial_art>
+<martial_art><name>Kampfringen</name><id>/m/0691q8</id></martial_art>
+<martial_art><name>Lau Gar</name><id>/m/064c4q</id></martial_art>
+<martial_art><name>Donnie Williams</name><id>/m/05vwy_q</id><origin>United States of America</origin><well_known_practitioner>Frank Argelander</well_known_practitioner><category>BKF Kenpo</category><category>Martial arts</category></martial_art>
+</collection>

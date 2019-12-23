@@ -1,0 +1,15 @@
+﻿<cene>
+	<cenik datumOd="2004-11-15">
+		<izd st="557">
+			<cena valuta="EUR">29.99</cena>
+			<popust tip="CLR">10.00</popust>
+		</izd>
+		<izd st="563">
+			<cena valuta="EUR">69.99</cena>
+		</izd>
+		<izd st="443">
+			<cena valuta="EUR">39.99</cena>
+			<popust tip="CLR">3.99</popust>
+		</izd>
+	</cenik>
+</cene>

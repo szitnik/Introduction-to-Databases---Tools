@@ -2,8 +2,6 @@
 
 The repository is created for lab sessions during the Introduction to Databases course at the University of Ljubljana, Faculty for computer and information science.
 
-## 
-
 To start the server, use the following command:
 
 ```
